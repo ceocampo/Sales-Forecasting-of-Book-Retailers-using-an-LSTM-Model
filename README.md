@@ -8,4 +8,4 @@ The project notebook can be found in the .ipynb file. <br>
 
 The dataset is can be found under MRTSSM451211USN.csv and the library requirements/versions used for this project are located in the requirements.txt file. <br>
 
-<b>Technologies used for this project:</b> python, pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras.
+<b>Technologies used for this project:</b> python, pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras, jupyter notebook.
